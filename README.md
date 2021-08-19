@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tsmorz
 - 🌱 I’m currently a grad student at Northeastern University in Boston
-- - 👀 I’m interested in using robotics to promote sustainable agricultural practices
+- 👀 I’m interested in using robotics to promote sustainable agricultural practices
 - 💞️ I’m looking to collaborate on autonomous vehicle design
 - 📫 How to reach me: smoragiewicz.t@northeastern.edu
 
