@@ -2,7 +2,7 @@
 - 🤖 I’m currently a grad student at Northeastern University in Boston, USA
 - 🌿 I’m interested in using robotics to promote sustainable agricultural practices
 - 👀 I’m looking to collaborate on stereo vision, trajectory optimization, and object manipulation
-- 📫 How to reach me: smoragiewicz.t@northeastern.edu
+- 📫 You can reach me at: smoragiewicz.t@northeastern.edu
 
 <!---
 Tsmorz/Tsmorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
