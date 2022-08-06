@@ -1,7 +1,7 @@
 - Hi, I’m Tony Smoragiewicz
 - 🤖 I’m currently a grad student at Northeastern University in Boston, USA
 - 🌿 I’m interested in using robotics to promote sustainable agricultural practices
-- 👀 I’m looking to collaborate on stereo vision systems and object manipulation
+- 👀 I’m looking to collaborate on stereo vision, trajectory optimization, and object manipulation
 - 📫 How to reach me: smoragiewicz.t@northeastern.edu
 
 <!---
