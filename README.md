@@ -1,7 +1,7 @@
 - Hi, I’m Tony Smoragiewicz
-- 🤖 I’m currently a grad student at Northeastern University in Boston, USA
+- 🤖 I’m currently a research assistant at Northeastern University in Boston, USA
 - 🌿 I’m interested in using robotics to promote sustainable agricultural practices
-- 👀 I’m looking to collaborate on visual navigation, trajectory optimization, and nonlinear state estimation
+- 👀 I’m looking to collaborate on visual navigation, nonlinear state estimation, and robotic manipulation
 - 📫 You can reach me at: smoragiewicz.t@northeastern.edu
 
 <!---
