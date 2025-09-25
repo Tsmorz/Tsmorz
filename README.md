@@ -1,7 +1,7 @@
 - Hi, I’m Tony Smoragiewicz
 - 🌿 Recently started my PhD at the Technical University of Munich where I work under Prof Lorenzo Masia.
-- 🤖 MSc in Robotics at Northeastern University under Prof Rifat Sipahi. We worked on improving probablistic models, sensor fusion algorithms, and visual navigation.
-- 👀 I’m looking to collaborate on visual navigation, nonlinear state estimation, and robotic manipulation.
+- 🤖 Completed my MSc in Robotics at Northeastern University under Prof Rifat Sipahi.
+- 👀 I’m looking to collaborate on visual navigation, nonlinear state estimation, and sensor fusion.
 - 📫 You can reach me at: tony.smoragiewicz@tum.de
 
 <!---
