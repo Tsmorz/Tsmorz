@@ -2,7 +2,7 @@
 - 🌿 Currently working at Agile Robots SE as a robotic software engineer.
 - 🤖 Completed my MSc in Robotics at Northeastern University under Prof Rifat Sipahi.
 - 👀 Looking to collaborate on visual navigation, nonlinear state estimation, and sensor fusion.
-- 📫 You can reach me at: tony.smoragiewicz@tum.de
+- 📫 You can reach me at: tonysmoragiewicz@gmail.com
 
 <!---
 Tsmorz/Tsmorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
