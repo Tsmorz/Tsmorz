@@ -1,5 +1,5 @@
 - Hi, I’m Tony Smoragiewicz
-- 🌿 Currently working toward my PhD at the Technical University of Munich under Prof Lorenzo Masia.
+- 🌿 Currently working at Agile Robots SE as a robotic software engineer.
 - 🤖 Completed my MSc in Robotics at Northeastern University under Prof Rifat Sipahi.
 - 👀 Looking to collaborate on visual navigation, nonlinear state estimation, and sensor fusion.
 - 📫 You can reach me at: tony.smoragiewicz@tum.de
