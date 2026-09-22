@@ -1,5 +1,5 @@
 - Hi, I’m Tony Smoragiewicz
-- 🌿 Currently working at Agile Robots SE as a robotic software engineer.
+- 🌿 Currently working at [Agile Robots](https://www.agile-robots.com/en/) as a robotic software engineer.
 - 🤖 Completed my MSc in Robotics at Northeastern University under Prof Rifat Sipahi.
 - 👀 Looking to collaborate on visual navigation, nonlinear state estimation, and sensor fusion.
 - 📫 You can reach me at: tonysmoragiewicz@gmail.com
